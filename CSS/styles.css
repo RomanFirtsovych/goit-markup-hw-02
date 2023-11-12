@@ -9,37 +9,34 @@ button {
   text-decoration: none;
 }
 body {
-  font-family: Roboto, sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17; /* 116.667% */
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .menu-link {
   color: #2e2f42;
-  /* Body Medium */
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .menu-link:hover,
 .menu-link:focus {
-  color: var(--OCEAN, #404bbf);
+  color: #404bbf;
 }
 .page-address {
-  color: var(--SLATE, #434455);
-
-  /* Body */
+  color: #434455;
   font-size: 16px;
-
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .address-link {
@@ -57,12 +54,12 @@ body {
 }
 .list-button {
   border-radius: 4px;
-  background: var(--IRIS, #4d5ae5);
+  background: #4d5ae5;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .list-button:hover,
 .list-button:focus {
   border-radius: 4px;
-  background: var(--OCEAN, #404bbf);
+  background: #404bbf;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
