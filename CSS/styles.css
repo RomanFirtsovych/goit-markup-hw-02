@@ -21,6 +21,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 .menu-link {
   color: #2e2f42;
@@ -34,17 +35,14 @@ body {
   color: #404bbf;
 }
 .page-address {
+  font-style: normal;
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .address-link {
-  display: flex;
-  width: 153px;
-  height: 24px;
   justify-content: center;
-  align-items: center;
   flex-shrink: 0;
   color: #434455;
 }
@@ -53,13 +51,12 @@ body {
   color: #404bbf;
 }
 .list-button {
-  border-radius: 4px;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .list-button:hover,
 .list-button:focus {
-  border-radius: 4px;
   background: #404bbf;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+span {
+  color: #2e2f42;
 }
