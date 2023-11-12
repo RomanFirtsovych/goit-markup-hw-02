@@ -146,3 +146,25 @@ letter-spacing: 0.02em;
   list-style-type: none;
   background-color: #FFFFFF;
 }
+.end{
+  background:#2E2F42;
+}
+.end-title{
+color:#4D5AE5;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.logo-end{
+  color: #F4F4FD;
+
+}
+.end-text{
+  color: #F4F4FD;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
